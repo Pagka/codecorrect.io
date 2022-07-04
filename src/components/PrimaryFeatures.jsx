@@ -74,11 +74,13 @@ export function PrimaryFeatures() {
       <Container className="relative">
         <div className="max-w-2xl md:mx-auto md:text-center xl:max-w-none">
           <h2 className="font-display text-3xl tracking-tight text-white sm:text-4xl md:text-5xl">
-            Everything you need to run your books.
+            It&#39;s time to say goodbye the boring code from before, and hello
+            to your new developer superpower.
           </h2>
           <p className="mt-6 text-lg tracking-tight text-blue-100">
-            Well everything you need if you aren’t that picky about minor
-            details like tax compliance.
+            CodeCorrect is a code generation tool for humans that reads your
+            input describing the logic, and then writes code for you
+            implementing this logic.
           </p>
         </div>
         <Tab.Group
